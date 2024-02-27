@@ -1,0 +1,8 @@
+# Python
+__pycache__
+
+# Logfiles
+*.log
+
+# env
+env/
